@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903574000628",
+    "project_id": "projet-mobile-cours-ew8z8v",
+    "storage_bucket": "projet-mobile-cours-ew8z8v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903574000628:android:1c81641ca1fb83bcf09fa1",
+        "android_client_info": {
+          "package_name": "com.mycompany.projetmobilecours"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNeTYOMHboDUPqvs-7yPL52dvt0xL55Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

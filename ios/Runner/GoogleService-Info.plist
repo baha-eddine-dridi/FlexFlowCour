@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC_lxNs65HEH22sCVItHVTeJE-eO96IhjE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>903574000628</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.projetmobilecours</string>
+	<key>PROJECT_ID</key>
+	<string>projet-mobile-cours-ew8z8v</string>
+	<key>STORAGE_BUCKET</key>
+	<string>projet-mobile-cours-ew8z8v.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:903574000628:ios:55f2c12d6d835ad2f09fa1</string>
+</dict>
+</plist>
